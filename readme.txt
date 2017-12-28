@@ -7,3 +7,4 @@ creating a new branch is quick and simple
 test no fast forward
 test fast forward
 test ff with branch 'testff'
+this is branch from lingcloud31
